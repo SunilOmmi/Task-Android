@@ -4,7 +4,7 @@ public class Data {
 
 	private boolean check=false;
 	private String task="";
-	public boolean isCheck() {
+	hhhhpublic boolean isCheck() {
 		return check;
 	}
 	public void setCheck(boolean check) {
