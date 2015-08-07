@@ -17,6 +17,7 @@ import android.widget.Toast;
 public class MainActivity extends ActionBarActivity implements OnClickListener,Checklistener{
 
 	private EditText mEtedit;
+//
 	private Button mBtnAdd;
 	private ArrayList<Data> mALlist;
 	private ListView mLVview;

@@ -2,7 +2,7 @@ package com.task.inteview;
 import java.util.ArrayList;
 
 import android.graphics.Color;
-import android.view.LayoutInflater;
+simport android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
